@@ -1,2 +1,2 @@
 # Cluster Crypto 
-[CarGoFast](Dogecoin_Nascar.webp)
+![CarGoFast](Dogecoin_Nascar.webp)
